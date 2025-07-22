@@ -89,8 +89,9 @@ while True:
     print("1. Add a new entry")
     print("2. View all entries")
     print("3. Search for an entry")
-    print("4. Delete all entries")
     print("5. delete one entry")
+    print("4. Delete all entries")
+    
     print("6. Exit")
     print("==============================================")
 
